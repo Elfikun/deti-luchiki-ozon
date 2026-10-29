@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 60" fill="none">
+  <!-- Ozon Blue pill/wordmark -->
+  <rect width="240" height="60" rx="12" fill="#005BFF"/>
+  <text x="30" y="38" font-family="'Inter', 'Segoe UI', system-ui, sans-serif" font-weight="900" font-size="32" fill="#FFFFFF" letter-spacing="-1">ozon</text>
+  <!-- Забота pill -->
+  <rect x="135" y="16" width="85" height="28" rx="14" fill="#F91155"/>
+  <text x="145" y="35" font-family="'Inter', 'Segoe UI', system-ui, sans-serif" font-weight="700" font-size="14" fill="#FFFFFF">ЗАБОТА</text>
+  <circle cx="210" cy="30" r="3" fill="#FFFFFF"/>
+</svg>

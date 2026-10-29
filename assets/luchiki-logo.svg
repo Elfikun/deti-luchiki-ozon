@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 60" fill="none">
+  <!-- Warm authentic sun of Deti-Luchiki (#95C227 & #FF7A00) -->
+  <g transform="translate(10, 6)">
+    <!-- Sun core -->
+    <circle cx="24" cy="24" r="14" fill="#FF7A00"/>
+    <!-- Sunny warm rays in deti-luchiki green and orange -->
+    <path d="M24 2v6M24 40v6M2 24h6M40 24h6" stroke="#95C227" stroke-width="3.5" stroke-linecap="round"/>
+    <path d="M8.5 8.5l4.2 4.2M35.3 35.3l4.2 4.2" stroke="#FF7A00" stroke-width="3" stroke-linecap="round"/>
+    <path d="M8.5 39.5l4.2-4.2M35.3 12.7l4.2-4.2" stroke="#95C227" stroke-width="3" stroke-linecap="round"/>
+    <!-- Friendly smiling face -->
+    <circle cx="20" cy="21" r="2" fill="#FFFFFF"/>
+    <circle cx="28" cy="21" r="2" fill="#FFFFFF"/>
+    <path d="M19 26c1.5 2.5 8.5 2.5 10 0" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round"/>
+  </g>
+  <!-- Text in Comfortaa font style -->
+  <text x="68" y="27" font-family="'Comfortaa', 'Nunito', 'Segoe UI', system-ui, sans-serif" font-weight="700" font-size="20" fill="#2E384D" letter-spacing="-0.3">дети-лучики</text>
+  <text x="68" y="44" font-family="'Inter', 'Segoe UI', system-ui, sans-serif" font-weight="700" font-size="10" fill="#95C227" letter-spacing="0.5">БЛАГОТВОРИТЕЛЬНАЯ ОРГАНИЗАЦИЯ</text>
+</svg>
